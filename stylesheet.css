@@ -18,8 +18,8 @@ h1 {
     /* Put a 15-pixel margin at the top of all h2 headings. */
     margin-top: 15px;
     margin-bottom: 15px;
-    color:blueviolet;
     font-size: 40px;
+    color:blueviolet;
     text-align: center;
   }
 
